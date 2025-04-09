@@ -17,6 +17,7 @@ Este é o meu primeiro projeto utilizando JavaScript, criado para praticar os fu
    - Ou arraste o arquivo para uma aba do navegador.
 
 ## Funcionalidades
+- (Exemplo genérico: substitua pelo que seu projeto faz!)
 - Uma interface simples para interação com o usuário.
 - Uso de eventos JavaScript (como cliques ou entradas de texto).
 - Exibição de resultados ou alterações na página em tempo real.
